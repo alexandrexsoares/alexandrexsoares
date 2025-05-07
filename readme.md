@@ -2,31 +2,39 @@
 
 <h1>
     <a href="https://github.com/alexandrexsoares">
-     <img align="center" alt="Logo Venilton Falvo Jr." width="36px" src="https://avatars.githubusercontent.com/u/97471199?v=4"></a>
-    <span>Venilton Falvo Jr. (falvojr)</span>
+     <img align="center" alt="Logo Alexandre Soares" width="36px" src="https://avatars.githubusercontent.com/u/97471199?v=4"></a>
+    <span>Alexandre Soares</span>
 </h1>
 
-<p align="justify">Tech Lead at DIO, passionate about technology, education, and generative AI.</p>
+<p align="justify">Tech Enthusiast | Data Analysis & Engineering | Python, SQL, BI Tools</p>
 
-### Connect with me
+<p align="justify">
+    🚀 **Profissional de Tecnologia** com formação em Sistemas de Informação e experiência prática em projetos de desenvolvimento de software e análise de dados.<br>
+    👨‍💻 Atuo com foco em **extração, transformação e visualização de dados**, com conhecimento em ferramentas como **Python**, **SQL**, **Pandas**, **Scikit-learn** e **Power BI**.<br>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/falvojr/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/falvojr/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@falvojr)
+### 🌐 Conecte-se comigo
 
-### GitHub Stats
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/alexandrexsoares/)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=falvojr&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6&color:FFF)](https://github.com/alexandrexsoares)
 
-<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=falvojr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/falvojr/github-readme-stats)-->
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandrexsoares&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+
+### 📈 Análise de Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandrexsoares&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=FFF&border_radius=3&border_color=561760&count_private=true)
 
 <details align="left">
-  <summary></summary> 
+  <summary>📋 Mais sobre mim</summary> 
 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
-  
-  <div align="right">Made with 💜 by <a href="https://github.com/falvojr">Venilton Falvo Jr.</a>.</div>
+  - **Formação:** Sistemas de Informação.<br>
+  - **Especialidades:** Desenvolvimento de Software, **Análise de Dados**, **Extração, Transformação e Visualização de Dados**.<br>
+  - **Ferramentas e Bibliotecas:** **Python**, **SQL**, **Pandas**, **Scikit-learn**, **Power BI**.<br>
+  - **Localização:** São Paulo, Brasil**.<br>
+  - **Interesses:** Cientista de Dados, Análise de Dados, Inteligência Artificial e Automação.
+
 
 </details>
