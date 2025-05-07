@@ -9,9 +9,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrexsoares/)
 
+
 ### 📸 Imagens / Logo
 
-![Logo ou Foto de Perfil](.img/pc.jpg)  
+<!-- Imagem posicionada no topo direito -->
+<img src="https://github.com/alexandrexsoares/.img/pc.jpg" alt="Logo ou Foto de Perfil" width="150" align="right" style="margin-top: 10px; margin-bottom: 10px;">
 
 ### 📈 Linguagens Mais Usadas
 
