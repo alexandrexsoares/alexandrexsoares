@@ -4,7 +4,9 @@
 
 **Profissional de Tecnologia** com formação em **Sistemas de Informação** e experiência prática em projetos de desenvolvimento de software e análise de dados.  
 👨‍💻 **Atuo com foco em extração, transformação e visualização de dados**, com conhecimento em ferramentas como **Python**, **SQL**, **Pandas**, **Scikit-learn** e **Power BI**.
-
+<p align="right">
+  <img src=".img/pc.jpg" alt="Logo ou Foto de Perfil" width="300" style="margin: 10px;">
+</p>
 ### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrexsoares/)
@@ -12,9 +14,7 @@
 
 <!-- Imagem posicionada no topo direito -->
 
-<p align="right">
-  <img src=".img/pc.jpg" alt="Logo ou Foto de Perfil" width="300" style="margin: 10px;">
-</p>
+
 
 ### 📈 Linguagens Mais Usadas
 
