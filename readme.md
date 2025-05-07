@@ -9,6 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrexsoares/)
 
+<img src=".img/pc.jpg" alt="Logo ou Foto de Perfil" width="100" align="right" style="margin-top: 10px; margin-bottom: 10px;">
 
 ### 📸 Imagens / Logo
 
