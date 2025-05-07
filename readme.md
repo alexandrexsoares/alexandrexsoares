@@ -11,9 +11,7 @@
 
 ### 📸 Imagens / Logo
 
-<!-- Adicione suas imagens aqui -->
-![Logo ou Foto de Perfil](https://via.placeholder.com/200x200/006400/FFFFFF?text=Imagem+de+Perfil)  
-*Exemplo de imagem com o texto "Imagem de Perfil"*
+![Logo ou Foto de Perfil](.img/pc.png)  
 
 ### 📈 Linguagens Mais Usadas
 
