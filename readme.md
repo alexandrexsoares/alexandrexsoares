@@ -8,10 +8,8 @@
 ### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF8000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrexsoares/)
-[![Instagram](https://img.shields.io/badge/-Instagram-FF8000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandrexsoares/)
-[![GitHub](https://img.shields.io/badge/-GitHub-FF8000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandrexsoares)
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandrexsoares&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF8000&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF8000&theme=jolly)
 
