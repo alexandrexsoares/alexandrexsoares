@@ -7,11 +7,17 @@
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF8000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrexsoares/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrexsoares/)
+
+### 📸 Imagens / Logo
+
+<!-- Adicione suas imagens aqui -->
+![Logo ou Foto de Perfil](https://via.placeholder.com/200x200/006400/FFFFFF?text=Imagem+de+Perfil)  
+*Exemplo de imagem com o texto "Imagem de Perfil"*
 
 ### 📈 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandrexsoares&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF8000&hide=html,css,scss&bg_color=000&text_color=FFF&border_radius=3&border_color=561760&count_private=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandrexsoares&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=006400&hide=html,css,scss&bg_color=000&text_color=FFF&border_radius=3&border_color=004d00&count_private=true)
 
 <details align="left">
   <summary>📋 Mais sobre mim</summary> 
