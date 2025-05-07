@@ -14,6 +14,9 @@
 
 <img src=".img/pc.jpg" alt="Logo ou Foto de Perfil" width="250" style="float: right; margin: 10px;">
 
+<p align="right">
+  <img src=".img/pc.jpg" alt="Logo ou Foto de Perfil" width="300" style="margin: 10px;">
+</p>
 
 ### 📈 Linguagens Mais Usadas
 
