@@ -1,16 +1,17 @@
-<table>
+<table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td>
+    <td valign="top" style="vertical-align: top;">
       <h1>Alexandre Soares</h1>
       <p>🚀 <strong>Tech Enthusiast | Data Analysis & Engineering | Python, SQL, BI Tools</strong></p>
       <p><strong>Profissional de Tecnologia</strong> com formação em <strong>Sistemas de Informação</strong> e experiência prática em projetos de desenvolvimento de software e análise de dados.<br>
       👨‍💻 <strong>Atuo com foco em extração, transformação e visualização de dados</strong>, com conhecimento em ferramentas como <strong>Python</strong>, <strong>SQL</strong>, <strong>Pandas</strong>, <strong>Scikit-learn</strong> e <strong>Power BI</strong>.</p>
     </td>
-    <td align="right">
-      <img src=".img/pc.jpg" alt="Logo ou Foto de Perfil" width="300" style="margin-left: 20px;">
+    <td valign="top" style="vertical-align: top;">
+      <img src=".img/pc.jpg" alt="Logo ou Foto de Perfil" width="300">
     </td>
   </tr>
 </table>
+
 
 ### 🌐 Conecte-se comigo
 
