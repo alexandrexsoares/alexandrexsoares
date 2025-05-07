@@ -13,7 +13,9 @@
 ### 📸 Imagens / Logo
 
 <!-- Imagem posicionada no topo direito -->
-<img src="https://github.com/alexandrexsoares/.img/pc.jpg" alt="Logo ou Foto de Perfil" width="150" align="right" style="margin-top: 10px; margin-bottom: 10px;">
+<img src="https://github.com/alexandrexsoares/.img/pc.png" alt="Logo ou Foto de Perfil" width="150" align="right" style="margin-top: 10px; margin-bottom: 10px;">
+
+![Logo ou Foto de Perfil](.img/pc.jpg)  
 
 ### 📈 Linguagens Mais Usadas
 
