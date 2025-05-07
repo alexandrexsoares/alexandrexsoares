@@ -11,7 +11,7 @@
 
 ### 📸 Imagens / Logo
 
-![Logo ou Foto de Perfil](./.img/pc.png)  
+![Logo ou Foto de Perfil](.img/pc.png)  
 
 ### 📈 Linguagens Mais Usadas
 
