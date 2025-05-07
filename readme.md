@@ -1,12 +1,17 @@
-# Alexandre Soares
+<table>
+  <tr>
+    <td>
+      <h1>Alexandre Soares</h1>
+      <p>🚀 <strong>Tech Enthusiast | Data Analysis & Engineering | Python, SQL, BI Tools</strong></p>
+      <p><strong>Profissional de Tecnologia</strong> com formação em <strong>Sistemas de Informação</strong> e experiência prática em projetos de desenvolvimento de software e análise de dados.<br>
+      👨‍💻 <strong>Atuo com foco em extração, transformação e visualização de dados</strong>, com conhecimento em ferramentas como <strong>Python</strong>, <strong>SQL</strong>, <strong>Pandas</strong>, <strong>Scikit-learn</strong> e <strong>Power BI</strong>.</p>
+    </td>
+    <td align="right">
+      <img src=".img/pc.jpg" alt="Logo ou Foto de Perfil" width="300" style="margin-left: 20px;">
+    </td>
+  </tr>
+</table>
 
-🚀 **Tech Enthusiast | Data Analysis & Engineering | Python, SQL, BI Tools**
-
-**Profissional de Tecnologia** com formação em **Sistemas de Informação** e experiência prática em projetos de desenvolvimento de software e análise de dados.  
-👨‍💻 **Atuo com foco em extração, transformação e visualização de dados**, com conhecimento em ferramentas como **Python**, **SQL**, **Pandas**, **Scikit-learn** e **Power BI**.
-<p align="right">
-  <img src=".img/pc.jpg" alt="Logo ou Foto de Perfil" width="300" style="margin: 10px;">
-</p>
 ### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrexsoares/)
