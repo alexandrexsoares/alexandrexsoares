@@ -15,7 +15,7 @@
 
 ### 📈 Análise de Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandrexsoares&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=FFF&border_radius=3&border_color=561760&count_private=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandrexsoares&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=0A75AD&hide=html,css,scss&bg_color=000A12&text_color=E3F2FD&border_radius=3&border_color=0D47A1)
 
 
 <details align="left">
