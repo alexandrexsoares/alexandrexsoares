@@ -12,6 +12,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrexsoares/)
 
+### 📈 Análise de Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandrexsoares&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=FFF&border_radius=3&border_color=561760&count_private=true)
+
+
 <details align="left">
   <summary>📋 Mais sobre mim</summary> 
 
