@@ -18,7 +18,6 @@
   - **Formação:** Sistemas de Informação.<br>
   - **Especialidades:** Desenvolvimento de Software, **Análise de Dados**, **Extração, Transformação e Visualização de Dados**.<br>
   - **Ferramentas e Bibliotecas:** **Python**, **SQL**, **Pandas**, **Scikit-learn**, **Power BI**.<br>
-  - **Localização:** São Paulo, Brasil**.<br>
   - **Interesses:** Cientista de Dados, Análise de Dados, Inteligência Artificial e Automação.
 
 
