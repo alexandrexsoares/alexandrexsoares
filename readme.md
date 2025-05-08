@@ -15,7 +15,6 @@
 <details align="left">
   <summary>📋 Mais sobre mim</summary> 
 
-@@ -33,8 +25,6 @@
   - **Formação:** Sistemas de Informação.<br>
   - **Especialidades:** Desenvolvimento de Software, **Análise de Dados**, **Extração, Transformação e Visualização de Dados**.<br>
   - **Ferramentas e Bibliotecas:** **Python**, **SQL**, **Pandas**, **Scikit-learn**, **Power BI**.<br>
